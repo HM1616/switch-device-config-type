@@ -1,0 +1,1 @@
+# switch-device-config-type
